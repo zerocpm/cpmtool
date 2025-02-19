@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: CPM Tool
-    subtitle: for Termux and iSH Python script
+    subtitle: Python script for Termux and iSH
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
