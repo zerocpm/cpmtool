@@ -34,7 +34,7 @@ sections:
     subtitle: Android va IOS
     items:
       - type: Card
-        title: First Card Title
+        title: Termux
         image:
           type: Image
           url: /images/Termux-logo.png
