@@ -71,10 +71,11 @@ sections:
           url: /images/python.png
           altText: Third item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Masalan kompyuterlar uchun Python, VS Code, PyCharm,  va boshqa
+          dasturlar mavjud
+
+
+          Faylni sotib oling va shunchaki ishlating. Sinab ko'ring :D
         actions:
           - type: Button
             label: Read the Docs
