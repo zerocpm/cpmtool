@@ -62,7 +62,7 @@ sections:
           iSH. Hoziroq yuklab oling va sinab ko'ring :D
         actions:
           - type: Button
-            label: Read the Docs
+            label: YUKLAB OLISH
             url: >-
               https://play.google.com/store/apps/details?id=com.termux&pcampaignid=web_share
       - type: Card
