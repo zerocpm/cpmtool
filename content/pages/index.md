@@ -56,10 +56,9 @@ sections:
           url: /images/ish_logo.png
           altText: Second item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Bu ham Termux kabi ishlaydi faqat bu **IOS** qurilmasiga tushadi va bu
+          Termuxdan command keylari bilan farq qiladi. **iSH** juda oson va
+          foydali dastur.
         actions:
           - type: Button
             label: Read the Docs
