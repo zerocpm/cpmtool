@@ -65,7 +65,7 @@ sections:
             label: YUKLAB OLISH
             url: 'https://apps.apple.com/us/app/ish-shell/id1436902243'
       - type: Card
-        title: Third Card Title
+        title: Boshqalar
         image:
           type: Image
           url: /images/python.png
