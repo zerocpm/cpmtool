@@ -6,9 +6,8 @@ sections:
     title: CPM Tool
     subtitle: Python script for Termux and iSH
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      Scriptni sotib oling va undan cheksiz foydalaning. Istalgan vaqtda
+      **xizmatingizda** ! 
     actions:
       - type: Button
         label: Start Building
