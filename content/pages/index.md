@@ -58,7 +58,8 @@ sections:
         text: >
           Bu ham Termux kabi ishlaydi faqat bu **IOS** qurilmasiga tushadi va bu
           Termuxdan command keylari bilan farq qiladi. **iSH** juda oson va
-          foydali dastur. Uni AppStoreda yuklab olsangiz bo'ladi . . .
+          foydali dastur. Uni AppStoreda yuklab olsangiz bo'ladi . Ilova nomi:
+          iSH. Hoziroq yuklab oling va sinab ko'ring :D
         actions:
           - type: Button
             label: Read the Docs
