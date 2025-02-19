@@ -7,7 +7,10 @@ sections:
     subtitle: Python script Termux va iSH uchun !
     text: >
       Scriptni sotib oling va undan cheksiz foydalaning. Istalgan vaqtda
-      **xizmatingizda**!
+      **xizmatingizda**! Bunda balans cheklanmagan va tugamaydi ! 
+
+
+      Agar sotib olishni istasangiz bizga murojat qiling ✔️
     actions:
       - type: Button
         label: Start Building
