@@ -63,8 +63,7 @@ sections:
         actions:
           - type: Button
             label: YUKLAB OLISH
-            url: >-
-              https://play.google.com/store/apps/details?id=com.termux&pcampaignid=web_share
+            url: ''
       - type: Card
         title: Third Card Title
         image:
