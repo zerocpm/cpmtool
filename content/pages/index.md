@@ -55,11 +55,10 @@ sections:
           type: Image
           url: /images/ish_logo.png
           altText: Second item image
-        text: >+
+        text: >
           Bu ham Termux kabi ishlaydi faqat bu **IOS** qurilmasiga tushadi va bu
           Termuxdan command keylari bilan farq qiladi. **iSH** juda oson va
-          foydali dastur.
-
+          foydali dastur. Uni AppStoreda yuklab olsangiz bo'ladi . . .
         actions:
           - type: Button
             label: Read the Docs
