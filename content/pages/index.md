@@ -63,7 +63,7 @@ sections:
         actions:
           - type: Button
             label: YUKLAB OLISH
-            url: ''
+            url: 'https://apps.apple.com/us/app/ish-shell/id1436902243'
       - type: Card
         title: Third Card Title
         image:
