@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: CPM Tool
-    subtitle: Python script for Termux and iSH
+    subtitle: Python script Termux va iSH uchun !
     text: >
       Scriptni sotib oling va undan cheksiz foydalaning. Istalgan vaqtda
       **xizmatingizda**!
