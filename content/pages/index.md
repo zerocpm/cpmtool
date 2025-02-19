@@ -31,7 +31,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: Kerakli ilovalar
-    subtitle: Section subtitle here
+    subtitle: Android va IOS
     items:
       - type: Card
         title: First Card Title
