@@ -78,6 +78,6 @@ sections:
           Faylni sotib oling va shunchaki ishlating. Sinab ko'ring :D
         actions:
           - type: Button
-            label: Read the Docs
+            label: ''
             url: 'https://docs.netlify.com/visual-editor/overview/'
 ---
