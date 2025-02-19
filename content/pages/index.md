@@ -21,7 +21,7 @@ sections:
         color: primary
       - type: Button
         label: GURUHIMIZ
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        url: 'https://t.me/CarParkingMilliarders'
         size: large
         variant: outlined
         color: primary
