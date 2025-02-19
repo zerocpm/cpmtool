@@ -14,7 +14,7 @@ sections:
 
     actions:
       - type: Button
-        label: Start Building
+        label: SOTIB OLISH
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
