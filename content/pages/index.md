@@ -5,12 +5,13 @@ sections:
   - type: HeroSection
     title: CPM Tool
     subtitle: Python script Termux va iSH uchun !
-    text: >
+    text: >+
       Scriptni sotib oling va undan cheksiz foydalaning. Istalgan vaqtda
-      **xizmatingizda**! Bunda balans cheklanmagan va tugamaydi ! 
+      **xizmatingizda**! Bunda balans cheklanmagan va tugamaydi !
 
 
-      Agar sotib olishni istasangiz bizga murojat qiling ✔️
+      > **`Agar sotib olishni istasangiz bizga murojat qiling ✔️`**
+
     actions:
       - type: Button
         label: Start Building
