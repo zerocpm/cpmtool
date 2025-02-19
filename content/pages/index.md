@@ -10,7 +10,10 @@ sections:
       **xizmatingizda**! Bunda balans cheklanmagan va tugamaydi !
 
 
-      ### **`Agar sotib olishni istasangiz bizga murojat qiling ✔️`**
+      ### **`Agar sotib olishni istasangiz,`**
+
+
+      **` bizga murojat qiling ✔️`**
 
     actions:
       - type: Button
