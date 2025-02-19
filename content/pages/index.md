@@ -40,10 +40,10 @@ sections:
           url: /images/Termux-logo.png
           altText: First item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          **Termux** bu **Android** uchun chiqarilgan ilova! Buni o'rnatish
+          uchun Google Play Marketga **Termux** deb izlang va uni o'rnating! Bu
+          asosan Android 11 va undan yuqori versiyalar uchun. Uning eski
+          versiyalarini Google yoki boshqa ilovalardan yuklab oling!
         actions:
           - type: Button
             label: Read the Docs
