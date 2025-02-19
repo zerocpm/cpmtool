@@ -29,7 +29,7 @@
         "navLinks": [
             {
                 "type": "Link",
-                "label": "Home",
+                "label": "Bosh sahifa",
                 "underline": "hover",
                 "url": "/"
             },
