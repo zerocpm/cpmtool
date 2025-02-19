@@ -60,8 +60,6 @@ sections:
           Termuxdan command keylari bilan farq qiladi. **iSH** juda oson va
           foydali dastur.
 
-
-
         actions:
           - type: Button
             label: Read the Docs
