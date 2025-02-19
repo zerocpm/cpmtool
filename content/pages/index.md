@@ -76,8 +76,5 @@ sections:
 
 
           Faylni sotib oling va shunchaki ishlating. Sinab ko'ring :D
-        actions:
-          - type: Button
-            label: ''
-            url: ''
+        actions: []
 ---
