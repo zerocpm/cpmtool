@@ -46,7 +46,7 @@ sections:
           versiyalarini Google yoki boshqa ilovalardan yuklab oling!
         actions:
           - type: Button
-            label: Read the Docs
+            label: Yuklab olish
             url: >-
               https://play.google.com/store/apps/details?id=com.termux&pcampaignid=web_share
       - type: Card
