@@ -47,7 +47,8 @@ sections:
         actions:
           - type: Button
             label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: >-
+              https://play.google.com/store/apps/details?id=com.termux&pcampaignid=web_share
       - type: Card
         title: Second Card Title
         image:
