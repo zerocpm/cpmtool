@@ -30,7 +30,7 @@ sections:
       url: /images/ui.png
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: Kerakli ilovalar
     subtitle: Section subtitle here
     items:
       - type: Card
