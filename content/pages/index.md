@@ -20,7 +20,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: KANALIMIZ
+        label: GURUHIMIZ
         url: 'https://docs.netlify.com/visual-editor/overview/'
         size: large
         variant: outlined
