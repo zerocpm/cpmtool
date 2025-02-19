@@ -7,7 +7,7 @@ sections:
     subtitle: Python script for Termux and iSH
     text: >
       Scriptni sotib oling va undan cheksiz foydalaning. Istalgan vaqtda
-      **xizmatingizda** ! 
+      **xizmatingizda**!
     actions:
       - type: Button
         label: Start Building
