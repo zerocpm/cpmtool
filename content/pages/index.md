@@ -50,7 +50,7 @@ sections:
             url: >-
               https://play.google.com/store/apps/details?id=com.termux&pcampaignid=web_share
       - type: Card
-        title: Second Card Title
+        title: iSH
         image:
           type: Image
           url: /images/ish_logo.png
