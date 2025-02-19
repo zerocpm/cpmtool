@@ -25,7 +25,7 @@
         ]
     },
     "footer": {
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/).",
+        "copyrightText": "[Netlify](https://www.netlify.com/) **qo'llab-quvatlaydi.**\n",
         "navLinks": [
             {
                 "type": "Link",
