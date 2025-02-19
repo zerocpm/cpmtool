@@ -12,7 +12,7 @@
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "Bog'lanish",
                 "url": "/about",
                 "underline": "hover"
             },
