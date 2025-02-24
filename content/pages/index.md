@@ -15,7 +15,7 @@ sections:
     actions:
       - type: Button
         label: SOTIB OLISH
-        url: 'https://t.me/izerocpm'
+        url: 'https://t.me/anonymousedUSER '
         size: large
         variant: contained
         color: primary
