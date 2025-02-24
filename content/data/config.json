@@ -15,12 +15,6 @@
                 "label": "Bog'lanish",
                 "url": "https://t.me/izerocpm",
                 "underline": "hover"
-            },
-            {
-                "type": "Link",
-                "label": "",
-                "url": "https://docs.netlify.com/visual-editor/overview/",
-                "underline": "hover"
             }
         ]
     },
