@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "title": "CPM - Tool",
+        "title": "CPM Tool",
         "navLinks": [
             {
                 "type": "Link",
